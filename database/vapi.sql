@@ -156,7 +156,8 @@ CREATE TABLE `api7users` (
 --
 
 INSERT INTO `api7users` (`id`, `username`, `password`, `authkey`) VALUES
-(1, 'admin', 'Kencing@001', '8ba30b496fae88ec808d6dc74f85952d06e3739696fe689b228bc0d906d2999e');
+(1, 'admin', 'Kencing@001', '8ba30b496fae88ec808d6dc74f85952d06e3739696fe689b228bc0d906d2999e'),
+(2, 'ceo', '~G1~BSGLL_I-Cz9(', 'flag{api8_c883406c2f56dd07b5b55db4028b522c}');
 
 -- --------------------------------------------------------
 
